@@ -107,7 +107,7 @@ const Form = () => {
         method="post"
         enctype="text/plain"
         onSubmit={handleSubmit}
-        className="w-full md:w-4/5 lg:w-3/5 bg-white rounded-lg flex flex-col gap-6 items-center p-4"
+        className="w-full md:w-4/5 lg:w-3/5 bg-white rounded-lg flex flex-col gap-4 items-center p-4"
       >
         <h1 className="text-xl text-center md:text-3xl lg:text-5xl font-bold text-blue-800">
           FORM
