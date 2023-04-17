@@ -113,7 +113,7 @@ const Form = () => {
           FORM
         </h1>
         <div className="flex flex-col gap-2 w-4/5">
-          <label className="text-left text-sm font-semibold text-gray-400">
+          <label className="text-left text-sm font-semibold text-black">
             Name
           </label>
           <input
@@ -128,7 +128,7 @@ const Form = () => {
         </div>
 
         <div className="flex flex-col gap-2 w-4/5">
-          <label className="text-left text-sm font-semibold text-gray-400">
+          <label className="text-left text-sm font-semibold text-black">
             Email address
           </label>
           <input
@@ -143,7 +143,7 @@ const Form = () => {
         </div>
 
         <div className="flex flex-col gap-2 w-4/5">
-          <label className="text-left text-sm font-semibold text-gray-400">
+          <label className="text-left text-sm font-semibold text-black">
             Password
           </label>
           <input
@@ -158,7 +158,7 @@ const Form = () => {
         </div>
 
         <div className="flex flex-col gap-2 w-4/5">
-          <label className="text-left text-sm font-semibold text-gray-400">
+          <label className="text-left text-sm font-semibold text-black">
             Mobile Number
           </label>
 
@@ -175,7 +175,7 @@ const Form = () => {
         </div>
 
         <div className="flex flex-col gap-2 w-4/5">
-          <label className="text-left text-sm font-semibold text-gray-400">
+          <label className="text-left text-sm font-semibold text-black">
             Address
           </label>
           <textarea
